@@ -1,4 +1,4 @@
-## YoMeQuedoEnCasa
+## Favbox
 
 How can I help my friends (& myself) to enjoy better this time spent at home?
 
